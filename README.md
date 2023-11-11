@@ -2,7 +2,15 @@
 WEN Zhaohe's repository for the course Contemporary Data Management Systems
 
 ## Chapters
-
+- 预备知识
+- 文档数据库
+- 文档数据库设计
+- 关系数据库
+- SQL
+- 查询处理实现技术
+- 关系数据库设计
+- 数据正确性与事务处理
+- 如何选择系统
 
 ## Labs
 - Lab 1:MongoDB的安装、启动、连接和CRUD操作初步
