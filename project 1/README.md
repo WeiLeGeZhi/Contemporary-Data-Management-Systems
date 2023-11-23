@@ -1,4 +1,4 @@
-# bookstore
+# bookstore I
 ## 功能
 
 实现一个提供网上购书功能的网站后端。<br>
